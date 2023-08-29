@@ -111,7 +111,7 @@ export const CoinDetails = () => {
 
                 <div className="content">
                     <div className="about">
-                        <h3>About</h3>
+                        <h3 className="coinHcolor">About</h3>
                         <p dangerouslySetInnerHTML={{
                             __html: DOMPurify.sanitize(coinDetails.description?.en)
                         }}>

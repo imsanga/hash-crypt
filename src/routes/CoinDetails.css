@@ -32,6 +32,7 @@
 }
 
 .info .coin-heading  img { margin-top: 0.4rem }
+
 .info .coin-heading {
     display: flex;
     align-items: center;
@@ -82,8 +83,6 @@ th { background-color: #333 }
 
 .about h3 { margin: 1rem 0 }
 
-.about p { text-align: justify }
-
 @media screen and (max-width: 720px) {
     .coin-container .content {
         max-width: 100%;
@@ -91,7 +90,7 @@ th { background-color: #333 }
         padding: 0 .5rem;
     }
     
-    .coin-container .divD { margin: 1.5rem auto }
+    .coin-container .divD { margin: 1.5rem .5rem }
 
     .stats { grid-template-columns: 1fr }
 
@@ -115,43 +114,63 @@ th { background-color: #333 }
     } 
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 415px) {
     .info .coin-price {
         margin-left: 1rem;
         margin-bottom: .2rem;
     } 
+    
     .coin-price h1 { font-size: x-large }
     .hideM { display: none }
 }
 
-@media screen and (max-width: 345px) {
+@media screen and (max-width: 380px) {
     .info .coin-price {
-        margin-left: 1rem;
-        margin-bottom: .2rem;
-    } 
-    .coin-price h1 { font-size: larger }
-    .hideM { display: none}
+        width: auto; 
+        margin-right: 3rem;
+    }
+    .coin-price h1 { font-size: x-large }
 }
 
-@media screen and (max-width: 335px) {
+@media screen and (max-width: 340px) {
     .info .coin-price {
-        margin-left: 1rem;
-        margin-bottom: .1rem;
-    } 
-    .coin-price h1 { font-size: Medium }
-    .hideM { display: none}
+        width: auto;
+        margin-left: -.4rem;
+
+    }
+    .coin-price h1 { font-size: x-large }
 }
 
-@media screen and (max-width: 325px) {
+@media screen and (max-width: 315px) {
     .info .coin-price {
+        width: auto;
         margin-left: -1rem;
-        margin-bottom: .1rem;
-    } 
-    .coin-price h1 { font-size: Medium }
-    .hideM, .hideM2 { display: none}
+        margin-bottom: 0;
+  
+    }
+    .coin-price h1 { font-size: larger }
+    .hideM2 { display: none }
 }
 
+@media screen and (max-width: 290px) {
+    .info .coin-price {
+        width: auto;
+        margin-left: -1.2rem;
+        margin-bottom: 0;
+    }
+    .coin-price h1 { font-size: larger;}
+    .hideM2 { display: none }
+}
 
+@media screen and (max-width: 285px) {
+    .info .coin-price {
+        width: auto;
+        margin-left: -1.2rem;
+        margin-bottom: 0;
+    }
+    .coin-price h1 { font-size: large}
+    .hideM2 { display: none }
+}
 
 
 
