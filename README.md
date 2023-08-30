@@ -14,6 +14,21 @@ Discover the Top 100 Crypto Powerhouses on our platform! This website is designe
 
 ## Screenshots
 
+**Home Page**
+
+![hash_crypt_webApp_HomePage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/46de7d7b-61a9-4600-96ec-0a1a5181553e)
+
+**Coin Details Page**
+
+![hash_crypt_webApp_CoinDetailsPage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/74abbb61-dc4b-4536-944b-7668452cddec)
+
+**Mobile Responsive**
+
+
+![Mobile_homePage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/12ad88e4-1f40-4e2f-ab4c-fa00ef858962) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ![Mobile_CoinDetailsPage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/f6986663-6276-4ab2-bd4e-dc32b8824a37)
+
+
+
 
 
 ## Demo
