@@ -80,6 +80,32 @@ img {
     color: #808080;
 }
 
+.coin-search {
+    margin: 25px 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.coin-input {
+    padding-left: 16px;
+    width: 300px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    background-color: #26272b;
+    box-shadow: 0px 0px 12px #18191b;
+    font-size: 1rem;
+    color:#f4f4f4;    
+}
+
+input[type=text]:focus { 
+    outline: none;
+    box-shadow: 0 0 0 2px #6900ff;
+}
+  
+.coin-input::placeholder { color: #646b80 }
+
 .coin-price { width: 150px }
 .coin-percent { width: 120px }
 .coin-marketcap { width: 200px}
@@ -140,6 +166,13 @@ img {
     .hashtag::before { content: "\0023" }
 
     .rankHome { margin-left: -1rem }
+}
+
+@media screen and (max-width: 330px) {
+    .coin-input {
+        padding-left: 16px;
+        width: auto;
+    }
 }
 
 
