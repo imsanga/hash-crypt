@@ -23,6 +23,7 @@ export const Coins = (props) => {
                         className="coin-input"
                         type="text"
                         onChange={handleChange}
+                        onKeyDown={(e) => { e.key === 'Enter' && e.preventDefault() }}
                         placeholder="Search"
                     />
                 </form>
