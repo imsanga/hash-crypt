@@ -16,15 +16,15 @@ Discover the Top 100 Crypto Powerhouses on our platform! This website is designe
 
 **Home Page**
 
-![hash_crypt_webApp_HomePage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/46de7d7b-61a9-4600-96ec-0a1a5181553e)
+![hash_crypt_webApp_HomePage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/c218114c-342d-47b8-9f82-6c9e511a331a)
 
 **Coin Details Page**
 
-![hash_crypt_webApp_CoinDetailsPage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/74abbb61-dc4b-4536-944b-7668452cddec)
+![hash_crypt_webApp_CoinDetailsPage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/f55cbf2f-07ce-48b4-a9d0-dbd1026a5ae2)
 
 **Mobile Responsive**
 
-![Mobile_homePage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/12ad88e4-1f40-4e2f-ab4c-fa00ef858962) &nbsp;&nbsp;&nbsp; ![Mobile_CoinDetailsPage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/f6986663-6276-4ab2-bd4e-dc32b8824a37)
+![Mobile_HomePage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/65592b27-62ea-49b6-8150-be87921d74dd) &nbsp;&nbsp;&nbsp; ![Mobile_CoinDetailsPage](https://github.com/madrasmonkey05/hash-crypt/assets/137407549/eb851124-8ec2-4f0e-9b9f-0f39c8ae8f41)
 
 ## Demo
 
