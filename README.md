@@ -34,4 +34,4 @@ Discover the Top 100 Crypto Powerhouses on our platform! This website is designe
 
 - [React JS](https://react.dev/)
 
-## Made with ❤ By [Sanga](https://github.com/madrasmonkey05)
+## Made with ❤ By [Sanga](https://github.com/imsanga)
